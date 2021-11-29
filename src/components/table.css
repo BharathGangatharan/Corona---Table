@@ -1,0 +1,18 @@
+.makeChange{
+  width: 90%;
+  margin: auto;
+  text-align: center;
+  margin-top: 20px;
+}
+
+input[type="search"]{
+  margin: 0 5px 30px 5px;
+}
+
+.table_back{
+  background-color: rgb(245, 189, 106);
+}
+.table_back thead{
+  text-transform: uppercase;
+  font-weight: 600;
+}
